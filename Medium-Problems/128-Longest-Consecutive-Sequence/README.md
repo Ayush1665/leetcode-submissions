@@ -1,4 +1,4 @@
-# Product of Array Expect Itself
+# Longest Consecutive Sequence
 
 [🔗 Problem Link](https://leetcode.com/problems/longest-consecutive-sequence/)
 
