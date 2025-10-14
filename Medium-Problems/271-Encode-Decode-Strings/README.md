@@ -1,4 +1,4 @@
-# Product of Array Expect Itself  
+# Encode and Decode Strings
 
 [🔗 Problem Link](https://neetcode.io/problems/string-encode-and-decode?list=neetcode150)   
 
