@@ -1,4 +1,4 @@
-# Product of Array Expect Itself  
+# Valid Sudoku
 
 [🔗 Problem Link](https://leetcode.com/problems/valid-sudoku/)  
 
