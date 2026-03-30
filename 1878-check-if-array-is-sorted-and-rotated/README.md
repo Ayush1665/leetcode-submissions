@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated">Check if Array Is Sorted and Rotated</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array <code>nums</code>, return <code>true</code><em> if the array was originally sorted in non-decreasing order, then rotated <strong>some</strong> number of positions (including zero)</em>. Otherwise, return <code>false</code>.</p>
 
-<p>There may be <strong>duplicates</strong> in the original array.</p>
+<p>There may be <strong>duplicates</strong> in the original array.</p> 
 
 <p><strong>Note:</strong> An array <code>A</code> rotated by <code>x</code> positions results in an array <code>B</code> of the same length such that <code>B[i] == A[(i+x) % A.length]</code> for every valid index <code>i</code>.</p>
 
