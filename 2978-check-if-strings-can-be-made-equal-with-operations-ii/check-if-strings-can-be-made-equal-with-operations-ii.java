@@ -5,11 +5,11 @@ class Solution {
         
         for (int i = 0; i < s1.length(); i++) {
             if (i % 2 == 0) {
-                even[s1.charAt(i) - 'a']++;
-                even[s2.charAt(i) - 'a']--;
+                even[s1.charAt(i) - 'a']--;
+                even[s2.charAt(i) - 'a']++;
             } else {
-                odd[s1.charAt(i) - 'a']++;
-                odd[s2.charAt(i) - 'a']--;
+                odd[s1.charAt(i) - 'a']--;
+                odd[s2.charAt(i) - 'a']++;
             }
         }
         
